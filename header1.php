@@ -16,7 +16,6 @@
                     <li><a href="about.php">Rooms</a></li>
                     <li><a href="services.php">Feedback</a></li>
                     <li><a href="contact.php">About</a></li>
-                    <li><a href="contact.php">amir</a></li>
                 </ul>
             </nav>
         </div>
